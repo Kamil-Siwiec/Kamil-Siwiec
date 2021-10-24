@@ -4,7 +4,7 @@
 ### 👀 I’m interested in Web/Frontend Development, Programming...
 - Ever since I was young kid, teen, adult and until today I have been interested in computer games, computers, programs, tools, technology, the Internet and the It world in general.
 ### 🌱 I try to learn from the best.
-- So I have currently completed or am in the process of completing any of the following training courses.
+So I have currently completed or am in the process of completing any of the following training courses. 
 - [Szkoła Reacta](https://szkolareacta.pl/)
 - [Przeprogramowani](https://przeprogramowani.pl/)
 - [WTF-Co Ten Frontend by Maciek Korsan](https://cotenfrontend.pl/)
