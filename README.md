@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @Kamil-Siwiec
-- 👀 I’m interested in Web/Frontend development, programming...
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hello Everyone! I'm Kamil Siwiec, welcome on my github profile! 👋
 
+## About me
+### 👀 I’m interested in Web/Frontend Development, Programming...
+- Ever since I was young kid, teen, adult and until today I have been interested in computer games, computers, programs, tools, technology, the Internet and the It world in general.
+### 🌱 I try to learn from the best.
+- So I have currently completed or am in the process of completing any of the following training courses.
+- [Szkoła Reacta](https://szkolareacta.pl/)
+- [Przeprogramowani](https://przeprogramowani.pl/)
+- [WTF-Co Ten Frontend by Maciek Korsan](https://cotenfrontend.pl/)
+### 💞️ I’m looking for my first job as a Junior Frontend Developer.
+- I want to grow every day, a full-time job as a programmer would give me that opportunity and would push me and my skills a lot forward. I would be fulfilled professionally and the employer would gain a dedicated employee
+### 📫 How to reach me:
+[LinkedIn](https://www.linkedin.com/in/kamil-siwiec/)
 
 ### 🛠️ Languages and Tools that I use and learn on my daily activity with programming:
 <br/>
