@@ -11,7 +11,7 @@ So I have currently completed or am in the process of completing any of the foll
 ### 💞️ I’m looking for my first job as a Junior Frontend Developer.
 - I want to grow every day, a full-time job as a programmer would give me that opportunity and would push me and my skills a lot forward. I would be fulfilled professionally and the employer would gain a dedicated employee
 ### 📫 How to reach me:
-[LinkedIn](https://www.linkedin.com/in/kamil-siwiec/)
+- [LinkedIn](https://www.linkedin.com/in/kamil-siwiec/)
 
 ### 🛠️ Languages and Tools that I use and learn on my daily activity with programming:
 <br/>
