@@ -9,6 +9,7 @@ So I have currently completed or am in the process of completing any of the foll
 - [Szkoła Reacta](https://szkolareacta.pl/)
 - [Przeprogramowani](https://przeprogramowani.pl/)
 - [WTF-Co Ten Frontend by Maciek Korsan](https://cotenfrontend.pl/)
+- [Samuraj Programowania](https://websamuraj.pl/)
 ### 💞️ I’m looking for my first job as a Junior Frontend Developer.
 - I want to grow every day, a full-time job as a programmer would give me that opportunity and would push me and my skills a lot forward. I would be fulfilled professionally and the employer would gain a dedicated employee
 ### 📫 How to reach me:
