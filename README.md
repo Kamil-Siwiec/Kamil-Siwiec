@@ -2,7 +2,7 @@
 
 ## About me
 ### 👀 I’m interested in Web/Frontend Development, Programming...
-- Ever since I was kid, teen, adult and until today I have been interested in computer games, computers, programs, tools, technology, the Internet and the It world in general.
+- Ever since I was kid, teen, adult and until today I have been interested in computer games, computers, programs, tools, technology, the Internet and the IT world in general.
 - The projects you will see here are still in development or will be further developed. There will also be new projects :)
 ### 🌱 I try to learn from the best.
 So I have currently completed or am in the process of completing any of the following training courses. 
